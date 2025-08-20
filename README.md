@@ -12,11 +12,15 @@
 ## 原始與調整後之設定
 ![setup_before_after](before_after.png)
 
+## 調整前 v.s 調整後之RTP的統計量
+![RTP_before_after](RTP_before_after.png)
+
+## 找出拉高 RTP 的關鍵因子(哪一種的中獎組合貢獻最多?)
+![contribute_analysis](contribute_analysis.png)
+
 ## 原始設定下，模擬之RTP的直方圖與箱型圖
 ![before_RTP](before_RTP_plot.png)
 
 ## 調整後，模擬之RTP的直方圖與箱型圖
 ![after_RTP](after_RTP_plot.png)
 
-## 調整前 v.s 調整後之RTP的統計量
-![RTP_before_after](RTP_before_after.png)
