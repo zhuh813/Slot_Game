@@ -1,7 +1,7 @@
 "# Slot_Game" 
 ## 符號 & 規則簡介
 
-![symbol](synmbol.png)
+![symbol](symbol.png)
 
 ![rule](Rule.png)
 
